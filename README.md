@@ -1,5 +1,5 @@
 # Hidden Objects game
-A 2D Hidden Objects game created using Python Mode for Processing 3,
+A 2D Hidden Objects game created using Python Mode for Processing 3
 
 ## Introduction 
 This project is a simple 2D hidden object type game, similar to the ones I enjoyed playing when I was younger. I made it to practice using Python and Processing. 
