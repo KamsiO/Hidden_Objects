@@ -17,7 +17,9 @@ This project is a simple 2D hidden object type game, similar to the ones I enjoy
 
 ## Gameplay
 In a hidden objects game, words are listed that correspond to images that are hidden in a picture. The user has to find the images and click them all in a set amount of time without clicking the background more than twice.
+
 ![Gameplay](Hidden_Objects/gameplay/gameplay.gif)
+
 Enjoy!
 
 ## Author
