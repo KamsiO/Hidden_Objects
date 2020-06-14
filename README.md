@@ -25,5 +25,5 @@ Enjoy!
 ## Author
 Kamsi Oramasionwu
 
-## Aknowledgments
+## Acknowledgements
 I don't own any of the artwork included in the game. I downloaded them from various free wallpaper websites.
