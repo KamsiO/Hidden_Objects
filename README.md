@@ -9,6 +9,7 @@ This project is a 2D hidden object type game, similar to the ones I enjoyed play
 * Python Mode for Processing 3
 
 ## Setup
+* Download Hidden Objects folder
 * Download and install Processing 3 or higher
 * Open Hidden_Objects.pyde from within the Hidden_Objects folder 
 * If Processing prompts to download Python Mode for Processing 3, agree 
